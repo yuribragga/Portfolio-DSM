@@ -1,12 +1,6 @@
 ### ❄️ Yuri Braga ❄️  
 ---
 
-#### ❄️ **Sumário** ❄️
-- 🙍 [Sobre mim](#sobre-mim)  
-- 📃 [Meus Projetos](#meus-projetos)  
-
----
-
 ### ❄️ **Sobre mim**  ❄️
 <p align="center"><img src="https://avatars.githubusercontent.com/u/79583088?v=4" width="30%"></p>  
 <p>  
