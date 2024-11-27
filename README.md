@@ -10,15 +10,16 @@
 ### ❄️ **Sobre mim**  ❄️
 <p align="center"><img src="https://avatars.githubusercontent.com/u/79583088?v=4" width="30%"></p>  
 <p>  
-Sou **Yuri Braga**, um entusiasta do mundo da tecnologia com 22 anos, atualmente no **3º semestre de Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos**.
+Sou Yuri Braga, um entusiasta do mundo da tecnologia com 22 anos, atualmente no 3º semestre de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos.
 </p>  
 <p align="center">  
-<a href="https://www.linkedin.com/in/yuri-braga/">LinkedIn</a> ♥ <a href="https://github.com/yuribragga">GitHub</a>  
+<a href="https://www.linkedin.com/in/yuri-braga/">LinkedIn</a> ❄️ <a href="https://github.com/yuribragga">GitHub</a>  
 </p>  
 
 ---
 
 ### ❄️ **Projetos**  ❄️
+<p align="center"><img src="codenine.png" width="20%"></img>
 
 ####  **Criança Renal**  
 **1º Semestre • 2/2023**  
@@ -45,6 +46,8 @@ O primeiro semestre foi desafiador, mas profundamente enriquecedor. Aprendi a va
 
 ---
 
+<p align="center"><img src="codenine.png" width="20%"></img>
+
 ####  **Gestão de Chamadas de Serviços**  
 **2º Semestre • 1/2024**  
 **[Repositório Github e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2024.1)**  
@@ -68,9 +71,13 @@ Este projeto foi uma grande oportunidade para crescer no frontend e entender, na
 
 ---
 
+<p align="center"><img src="sync.png" width="20%"></img>
+
 #### ❄️ **Portal de Transparência FAPG**  
 **3º Semestre • 2/2024**  
+
 **[Repositório Github e Documentação do Projeto](https://github.com/Sync-FATEC/API-2024.2-3SEM)**  
+<p align="justify">Parceiro Acadêmico: <a href="https://fapg.org.br/">FAPG</a></p>
 
 - **Parceiro Acadêmico:** [FAPG](https://fapg.org.br/)  
 - **Objetivo:** Criar uma plataforma que permita a inserção, consulta e transparência de dados de projetos realizados, garantindo o cumprimento de exigências legais.  
