@@ -85,7 +85,7 @@ Este foi o nosso primeiro projeto acadêmico, e a **falta de experiência em tra
 </div>
 
 #### **Soft Skills Desenvolvidas:**  
-Liderança, organização de equipes, empatia ao lidar com questões delicadas e capacidade de adaptação a novos desafios.  
+Trabalhar em um projeto que aborda um tema sensível exigiu empatia para compreender as reais necessidades dos usuários e criar soluções úteis e acessíveis. A troca constante de ideias com a equipe ajudou a melhorar a comunicação, incentivando discussões construtivas e o aprendizado coletivo. Além disso, a superação de desafios técnicos reforçou minha capacidade de adaptação e de enfrentar problemas de forma criativa, sempre buscando a melhor solução.
 
 #### **[Repositório GitHub](https://github.com/Code-Nine-FTC/Grupo-Code-Nine)**  
 
@@ -128,7 +128,7 @@ A introdução de **ferramentas novas**, como **TypeScript** e **React.js**, tro
 </div>
 
 #### **Soft Skills Desenvolvidas:**  
-Planejamento de sprints, organização do backlog, comunicação eficaz com equipes multidisciplinares.  
+Aprender a usar novas ferramentas como TypeScript e React demandou paciência e persistência, além de colaboração com a equipe para compartilhar conhecimentos e superar dificuldades. A troca de experiências foi essencial para o aprendizado conjunto e me ajudou a melhorar minha habilidade de resolver problemas técnicos. Além disso, trabalhar em interfaces voltadas para o usuário me incentivou a ser mais detalhista e a valorizar a usabilidade em cada entrega.
 
 #### **[Repositório GitHub](https://github.com/Code-Nine-FTC/API-2024.1)**  
 
@@ -172,7 +172,8 @@ Durante o projeto, enfrentamos uma **quebra de grupos**, o que nos forçou a tra
 </div>
 
 #### **Soft Skills Desenvolvidas:**  
-Resiliência, adaptação a novos grupos e dinâmicas, colaboração eficaz e gerenciamento de tempo sob pressão.  
+A convivência com novos integrantes da equipe trouxe oportunidades para melhorar a comunicação e a colaboração em um ambiente dinâmico. A necessidade de integrar diferentes perspectivas no projeto me ajudou a ser mais receptivo a novas ideias e soluções. Trabalhar em dashboards interativos exigiu foco e atenção aos detalhes, enquanto a solução de problemas inesperados me tornou mais resiliente e criativo ao lidar com desafios complexos.
+ 
 
 #### **[Repositório GitHub](https://github.com/Sync-FATEC/API-2024.2-3SEM)**  
 
